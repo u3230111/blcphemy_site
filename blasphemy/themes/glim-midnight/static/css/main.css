@@ -111,6 +111,73 @@ footer a:hover {
     color: grey;
 }
 
+.container{
+    display: grid;
+    width: 100%;
+    height: auto;
+}
+
+.kamadoswordicon{
+    position: relative;
+    height: 50vh;
+    width: auto;
+    right: 30vw;
+}
+
+.tattoodesign1{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign2{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign3{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign4{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign5{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign6{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign7{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign8{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
+.tattoodesign9{
+    position: relative;
+    height: 20vh;
+    width: auto;
+}
+
 /* Responsive */
 @media screen AND (max-width: 700px) {
     .mainbg {
